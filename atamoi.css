@@ -1,0 +1,87 @@
+
+.Header{
+    color: aliceblue;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+   
+    background-color:#005792;
+}
+.jumbotron{
+    background-color: #005792;
+}
+.footer{
+    background-color:#005792;
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px;
+}
+
+.hyper{
+    text-decoration: none;
+    color: aliceblue;
+}
+.hyper2{
+    text-decoration: none;
+    color: black;
+}
+.sendbutton{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px,15px;
+    border: 1px #005792;
+    border-color: aliceblue;
+}
+.subsribe{
+    background-color: #005792;
+    color: aliceblue;
+    padding: 40px,60px;
+    border-color: #EEE4AB;
+    border-radius: 30px;
+    text-decoration: none;
+
+}
+
+.subform{
+    border-radius: 100px;
+    border-color: #005792;
+    border-width: medium;
+    border-style: solid;
+
+    
+}
+
+.fillform{
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #005792;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.fillformbtn{
+    width: 30%;
+    padding: 4px;
+    border: 1px solid #005792;
+    border-radius: 2px;
+    resize: vertical;
+}
+
+.feedback{
+    width: 95%;
+    padding: 4px,4px;
+    border: 1px solid #005792;
+    border-radius: 4px;
+    resize: none;
+    
+}
+
+.fontfam{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fontfam2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
